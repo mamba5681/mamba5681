@@ -14,8 +14,6 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-MAMBA%20MODIFICATIONS-17a6ec?style=for-the-badge)](https://mambamodifications.xyz/discord)
 
-<img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
-
 
 ### Some Highlights:
 
