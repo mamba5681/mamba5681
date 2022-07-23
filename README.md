@@ -8,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/itz-hyperz)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://hyperz.dev/github)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic) 
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=mamba5681&label=Views&color=blue&style=plastic) 
 
 I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to party with friends and hang out in Discord calls 👨🏻‍💻. I'm currently into Discord Bot Development 🕸️ and working on my Class Extenders and Formatting 🤓.
 
