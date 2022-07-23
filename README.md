@@ -9,8 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=mamba5681&label=Views&color=blue&style=plastic) 
 
-I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to party with friends and hang out in Discord calls 👨🏻‍💻. I'm currently into Discord Bot Development 🕸️ and working on my Class Extenders and Formatting 🤓.
-
+I'm mainly a Lua Developer for FiveM, and a Javascript Discord Bot/Web Developer. I code in my freetime for fun, and enjoy coding to benefit my future, which I hope is in Computer Science. I'm new to GitHub, so I would appreciate a follow if you don't mind :)
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-MAMBA%20MODIFICATIONS-17a6ec?style=for-the-badge)](https://mambamodifications.xyz/discord)
 
