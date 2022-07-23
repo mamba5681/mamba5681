@@ -1,12 +1,11 @@
 ## Hey 👋, I'm [Mamba!](https://mambamodifications.xyz) (Follow Me!)
 
-<img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logowhite.png" />
+<img align="right" height="60" width="60" alt="" src="https://mambamodifications.xyz/images/gallery-qXSqq5wDW56c3jgjKUFLwQ9v42cb2qJnyf7vaLUlG3cn8.png" />
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://hyperz.dev/discord)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://hyperz.dev/youtube)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hyperz.dev/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/itz-hyperz)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://hyperz.dev/github)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://mambamodifications.xyz/discord)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCB2uv80F-SQDEWcVnQJH25w)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mambamodifications.xyz/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/mamba5681)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=mamba5681&label=Views&color=blue&style=plastic) 
 
