@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Hyperz!](https://hyperz.dev/) (Follow Me!)
+## Hey 👋, I'm [Mamba!](https://mambamodifications.xyz) (Follow Me!)
 
 <img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logowhite.png" />
 
@@ -20,12 +20,10 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 
 ### Some Highlights:
 
-- 📌 &nbsp; [FiveM HUD Design](https://github.com/Itz-Hyperz/HyperzHudDesign-FiveM)
-- 🚀 &nbsp; [Guardian Discord Whitelist](https://github.com/Jordan2139/Guardian)
-- 🏫 &nbsp; [HyperzFiveM-Base](https://github.com/itz-hyperz/hyperzfivem-base)
-- 🌀 &nbsp; [Universal Commands](https://github.com/Itz-Hyperz/Universal-Commands)
-- 👓 &nbsp; [Utilities Discord Bot](https://github.com/Itz-Hyperz/Hyperz-Utilities-Bot)
-- 💻 &nbsp; [This Github Template](https://github.com/Itz-Hyperz/Itz-Hyperz)
+- 🏎️ &nbsp; [Mamba Car Menu](https://mambamodifications.xyz/store/mcm)
+- ✌️ &nbsp; [Location Based Peacetime](https://mambamodifications.xyz/store/locationbasedpt)
+- 📌 &nbsp; [Location Specified Priority Status](https://mambamodifications.xyz/store/lsps)
+- 🔫 &nbsp; [Standalone Weapon Shop](https://mambamodifications.xyz/store/weaponshop)
 
 ### Languages and Tools:
 
@@ -48,8 +46,8 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-<a href="https://github.com/Itz-Hyperz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Hyperz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/mamba5681">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mamba5681&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
@@ -58,11 +56,11 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10
-- Laptop: HP Pavillion (I have a custom desktop)
-- Browser: Brave Browser
+- OS: Windows 11
+- PC: Intel i7-9700F, GTX 1650 Super, 16GB DDR4 TEAMGROUP T-Force Vulcan Z Ram, 2TB HDD, and [a MSI B365M PRO-VDH](https://www.msi.com/Motherboard/B365M-PRO-VDH)
+- Browser: Opera GX
 - Code Editor: VSCode - The best editor out there
-- Stay Updated: [YouTube](https://hyperz.dev/youtube), [Discord](https://hyperz.dev/discord), and [Twitter](https://twitter.com/itz_hyperz)
+- Stay Updated: [YouTube](https://[hyperz.dev/youtube](https://www.youtube.com/channel/UCB2uv80F-SQDEWcVnQJH25w)) and [Discord](https://mambamodifications.xyz/discord)
 
 ---
 
