@@ -48,7 +48,7 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 <p align="left">
 <a href="https://github.com/mamba5681">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mamba5681&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mamba5681&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
@@ -60,7 +60,7 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 - PC: Intel i7-9700F, GTX 1650 Super, 16GB DDR4 TEAMGROUP T-Force Vulcan Z Ram, 2TB HDD, and [a MSI B365M PRO-VDH](https://www.msi.com/Motherboard/B365M-PRO-VDH)
 - Browser: Opera GX
 - Code Editor: VSCode - The best editor out there
-- Stay Updated: [YouTube](https://[hyperz.dev/youtube](https://www.youtube.com/channel/UCB2uv80F-SQDEWcVnQJH25w)) and [Discord](https://mambamodifications.xyz/discord)
+- Stay Updated: [YouTube](https://www.youtube.com/channel/UCB2uv80F-SQDEWcVnQJH25w) and [Discord](https://mambamodifications.xyz/discord)
 
 ---
 
