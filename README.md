@@ -1,25 +1,25 @@
-## Hey 👋, I'm [Mamba!](https://mambamodifications.xyz) (Follow Me!)
+## Hey 👋, I'm [Mamba!](https://mamba-mods.texbex.io) (Follow Me!)
 
 <img align="right" height="60" width="60" alt="" src="https://mambamodifications.xyz/images/gallery-qXSqq5wDW56c3jgjKUFLwQ9v42cb2qJnyf7vaLUlG3cn8.png" />
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://mambamodifications.xyz/discord)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/VJf3u427Pk)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCB2uv80F-SQDEWcVnQJH25w)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mambamodifications.xyz/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mamba-mods.tebex.io)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/mamba5681)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=mamba5681&label=Views&color=blue&style=plastic) 
 
-I'm mainly a Lua Developer for FiveM, and a Javascript Discord Bot/Web Developer. I code in my freetime for fun, and enjoy coding to benefit my future, which I hope is in Computer Science. I'm new to GitHub, so I would appreciate a follow if you don't mind :)
+I'm a FiveM Lua Developer and a Javascript Discord Bot/Web Developer. I code in my freetime for fun and hope for a future in Computer Science. This is a relatively new GitHub so I would appreciate a follow if you don't mind :)
 
-[![DOD Badge](https://img.shields.io/badge/TEAM-MAMBA%20MODIFICATIONS-17a6ec?style=for-the-badge)](https://mambamodifications.xyz/discord)
+[![DOD Badge](https://img.shields.io/badge/TEAM-MAMBA%20MODIFICATIONS-17a6ec?style=for-the-badge)](https://discord.gg/VJf3u427Pk)
 
 
 ### Some Highlights:
 
-- 🏎️ &nbsp; [Mamba Car Menu](https://mambamodifications.xyz/store/mcm)
-- ✌️ &nbsp; [Location Based Peacetime](https://mambamodifications.xyz/store/locationbasedpt)
-- 📌 &nbsp; [Location Specified Priority Status](https://mambamodifications.xyz/store/lsps)
-- 🔫 &nbsp; [Standalone Weapon Shop](https://mambamodifications.xyz/store/weaponshop)
+- 🏎️ &nbsp; [Mamba Car Menu](https://mamba-mods.tebex.io/package/5258065)
+- ✌️ &nbsp; [Location Based Peacetime](https://mamba-mods.tebex.io/package/5257987)
+- 📌 &nbsp; [Location Specified Priority Status](https://mamba-mods.tebex.io/package/5258002)
+- 🔫 &nbsp; [Standalone Weapon Shop](https://mamba-mods.tebex.io/package/5258033)
 
 ### Languages and Tools:
 
