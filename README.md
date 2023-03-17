@@ -54,7 +54,7 @@ I'm a FiveM Lua Developer and a Javascript Discord Bot/Web Developer. I code in 
 
 - OS: Windows 11
 - PC: [Intel i7-9700F](https://www.amazon.com/Intel-i7-9700F-Desktop-Processor-Graphics/dp/B07S8DWXT3), [RTX 3050](https://www.newegg.com/gigabyte-geforce-rtx-3050-gv-n3050eagle-oc-8gd/p/N82E16814932498?Description=RTX%203050&cm_re=RTX_3050-_-14-932-498-_-Product), [16GB DDR4 TEAMGROUP T-Force Vulcan Z Ram](https://www.amazon.com/TEAMGROUP-T-Force-Vulcan-3200MHz-Desktop/dp/B07T62Y4YN/ref=asc_df_B07T62Y4YN/?tag=hyprod-20&linkCode=df0&hvadid=380145854123&hvpos=&hvnetw=g&hvrand=7545338354882567726&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9013318&hvtargid=pla-816991360975&psc=1&tag=&ref=&adgrpid=85982211068&hvpone=&hvptwo=&hvadid=380145854123&hvpos=&hvnetw=g&hvrand=7545338354882567726&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9013318&hvtargid=pla-816991360975), [2TB HDD](https://www.amazon.com/Seagate-BarraCuda-Internal-Drive-3-5-Inch/dp/B07H2RR55Q/ref=sr_1_3?crid=72OEFAG50VRS&keywords=2TB+HDD&qid=1658589815&s=electronics&sprefix=2tb+hdd%2Celectronics%2C98&sr=1-3), and [a MSI B365M PRO-VDH](https://www.msi.com/Motherboard/B365M-PRO-VDH)
-- Browser: Google Chrome
+- Browser: Opera GX
 - Code Editor: [Visual Studio Code](https://code.visualstudio.com/)
 - Stay Updated: [YouTube](https://www.youtube.com/channel/UCB2uv80F-SQDEWcVnQJH25w) and [Discord](https://mambamodifications.xyz/discord)
 
