@@ -1,8 +1,8 @@
-## Hey 👋, I'm [Mamba!](https://mamba-mods.texbex.io) (Follow Me!)
+## Hey 👋, I'm [Mamba!](https://store.fxsolutions.tech) (Follow Me!)
 
 <img align="right" height="60" width="60" alt="" src="https://mambamodifications.xyz/images/gallery-qXSqq5wDW56c3jgjKUFLwQ9v42cb2qJnyf7vaLUlG3cn8.png" />
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/VJf3u427Pk)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/aDVRECwuwF)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCB2uv80F-SQDEWcVnQJH25w)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mamba-mods.tebex.io)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/mamba5681)
@@ -11,7 +11,7 @@
 
 I'm a FiveM Lua Developer and a Javascript Discord Bot/Web Developer. I code in my freetime for fun and hope for a future in Computer Science. This is a relatively new GitHub so I would appreciate a follow if you don't mind :)
 
-[![DOD Badge](https://img.shields.io/badge/TEAM-MAMBA%20MODIFICATIONS-17a6ec?style=for-the-badge)](https://discord.gg/VJf3u427Pk)
+[![DOD Badge](https://img.shields.io/badge/TEAM-MAMBA%20MODIFICATIONS-17a6ec?style=for-the-badge)](https://discord.gg/aDVRECwuwF)
 
 
 ### Some Highlights:
@@ -53,10 +53,10 @@ I'm a FiveM Lua Developer and a Javascript Discord Bot/Web Developer. I code in 
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 11
-- PC: [Intel i7-9700F](https://www.amazon.com/Intel-i7-9700F-Desktop-Processor-Graphics/dp/B07S8DWXT3), [RTX 3050](https://www.newegg.com/gigabyte-geforce-rtx-3050-gv-n3050eagle-oc-8gd/p/N82E16814932498?Description=RTX%203050&cm_re=RTX_3050-_-14-932-498-_-Product), [16GB DDR4 TEAMGROUP T-Force Vulcan Z Ram](https://www.amazon.com/TEAMGROUP-T-Force-Vulcan-3200MHz-Desktop/dp/B07T62Y4YN/ref=asc_df_B07T62Y4YN/?tag=hyprod-20&linkCode=df0&hvadid=380145854123&hvpos=&hvnetw=g&hvrand=7545338354882567726&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9013318&hvtargid=pla-816991360975&psc=1&tag=&ref=&adgrpid=85982211068&hvpone=&hvptwo=&hvadid=380145854123&hvpos=&hvnetw=g&hvrand=7545338354882567726&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9013318&hvtargid=pla-816991360975), [2TB HDD](https://www.amazon.com/Seagate-BarraCuda-Internal-Drive-3-5-Inch/dp/B07H2RR55Q/ref=sr_1_3?crid=72OEFAG50VRS&keywords=2TB+HDD&qid=1658589815&s=electronics&sprefix=2tb+hdd%2Celectronics%2C98&sr=1-3), and [a MSI B365M PRO-VDH](https://www.msi.com/Motherboard/B365M-PRO-VDH)
+- PC: [Intel i7-9700F](https://www.amazon.com/Intel-i7-9700F-Desktop-Processor-Graphics/dp/B07S8DWXT3), [RTX 3050](https://www.newegg.com/gigabyte-geforce-rtx-3050-gv-n3050eagle-oc-8gd/p/N82E16814932498?Description=RTX%203050&cm_re=RTX_3050-_-14-932-498-_-Product), [16GB DDR4 TEAMGROUP T-Force Vulcan Z Ram](https://www.amazon.com/TEAMGROUP-T-Force-Vulcan-3200MHz-Desktop/dp/B07T62Y4YN/ref=asc_df_B07T62Y4YN/?tag=hyprod-20&linkCode=df0&hvadid=380145854123&hvpos=&hvnetw=g&hvrand=7545338354882567726&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9013318&hvtargid=pla-816991360975&psc=1&tag=&ref=&adgrpid=85982211068&hvpone=&hvptwo=&hvadid=380145854123&hvpos=&hvnetw=g&hvrand=7545338354882567726&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9013318&hvtargid=pla-816991360975), [2TB HDD](https://www.amazon.com/Seagate-BarraCuda-Internal-Drive-3-5-Inch/dp/B07H2RR55Q/ref=sr_1_3?crid=72OEFAG50VRS&keywords=2TB+HDD&qid=1658589815&s=electronics&sprefix=2tb+hdd%2Celectronics%2C98&sr=1-3), and a [MSI B365M PRO-VDH](https://www.msi.com/Motherboard/B365M-PRO-VDH)
 - Browser: Opera GX
 - Code Editor: [Visual Studio Code](https://code.visualstudio.com/)
-- Stay Updated: [YouTube](https://www.youtube.com/channel/UCB2uv80F-SQDEWcVnQJH25w) and [Discord](https://mambamodifications.xyz/discord)
+- Stay Updated: [YouTube](https://www.youtube.com/channel/UCB2uv80F-SQDEWcVnQJH25w) and [Discord](https://discord.gg/aDVRECwuwF)
 
 ---
 
